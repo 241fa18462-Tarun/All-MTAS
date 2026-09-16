@@ -149,5 +149,3 @@
 ⭐ - Community Recommendations
 
 ***
-
-[made with ❤️](https://fmhy.net/feedback)
